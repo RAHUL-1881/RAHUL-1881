@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RAHUL-1881
+- 👋 Hi, I’m INDURTHI RAHUL.
 - 🌱 I’m currently learning c++ and java 
-- 💞️ I’m looking to collaborate on embedded system designs
+- 💞️ I’m looking to collaborate on intresing projects in web devlopment.
 - 📫 you can contact me through my email - gettheshot1881@gmail.com
 
 <!---
