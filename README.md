@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RAHUL-1881
-- 🌱 I’m currently learning vhdl design
+- 🌱 I’m currently learning c++ and java 
 - 💞️ I’m looking to collaborate on embedded system designs
 - 📫 you can contact me through my email - gettheshot1881@gmail.com
 
