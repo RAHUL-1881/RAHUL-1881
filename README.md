@@ -1,6 +1,6 @@
 - 👋 Hi, I’m INDURTHI RAHUL.
-- 🌱 I’m currently learning c++ and java 
-- 💞️ I’m looking to collaborate on intresing projects in web devlopment.
+- 🌱 I’m currently learning verilog and system verilog. 
+- 💞️ I’m looking to collaborate on intresing projects in RTL designing.
 - 📫 you can contact me through my email - gettheshot1881@gmail.com
 
 <!---
